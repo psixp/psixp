@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ## SNAKE!🐍
 
-![snake gif](https://github.com/psixp/psixp/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/psixp/psixp/blob/output/github-contribution-grid-snake.svg)
