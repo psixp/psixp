@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/pablo-cardias-flores-a2a77a161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-## SNAKE!🐍
+## SNAKE-EATING!🐍
 
 ![snake gif](https://github.com/psixp/psixp/blob/output/github-contribution-grid-snake.svg)
