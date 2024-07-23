@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 I’m currently Dev Web Full stack Node.js (future) -->
-- 🔭 I’m currently student Full Stack Node JS at Digital House
+- 🔭 I’m currently student Full Stack Node JS
 - 📫 How to reach me: pablo_six@live.com
  <div style="display: flex;">
   <details open>
